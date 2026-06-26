@@ -1,0 +1,110 @@
+{
+    "name": "prueba",
+    "description": "prueba",
+    "authors": [
+        {
+            "name": "aiden"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#232a2e"
+        ],
+        "BACKGROUND_MOD_MUTED": [
+            "#374247"
+        ],
+        "PANEL_BG": [
+            "#2d3538"
+        ],
+        "BACKGROUND_SURFACE_RAISED": [
+            "#374247"
+        ],
+        "BACKGROUND_BRAND": [
+            "#4d545c"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#232A2E"
+        ],
+        "INPUT_BACKGROUND_DEFAULT": [
+            "#232A2E"
+        ],
+        "INTERACTIVE_TEXT_DEFAULT": [
+            "#a7c080"
+        ],
+        "EMBED_BACKGROUND": [
+            "#374247"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#232A2E"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#a7c080",
+        "PRIMARY_100": "#f4f4f4",
+        "PRIMARY_200": "#d0cfef",
+        "PRIMARY_300": "#a7c080",
+        "PRIMARY_360": "#7e8ecc",
+        "PRIMARY_400": "#a7c080",
+        "PRIMARY_600": "#4c555a",
+        "PRIMARY_630": "#4c555a",
+        "PRIMARY_660": "#4c555a",
+        "PRIMARY_700": "#4c555a",
+        "PRIMARY_800": "#4c555a",
+        "BLACK_500": "#000000fa",
+        "BRAND_260": "#a7c080",
+        "BRAND_360": "#a7c080",
+        "BRAND_500": "#a7c080",
+        "BRAND_560": "#68785B",
+        "YELLOW_300": "#dbbc7f",
+        "GREEN_600": "#83c092",
+        "GREEN_360": "#83c092",
+        "RED_400": "#e67e80",
+        "BLUE_345": "#a7c080",
+        "WHITE_500": "#a7aaab",
+        "PLUM_24": "#232a2e",
+        "PLUM_23": "#232a2e",
+        "PLUM_22": "#2d3538",
+        "PLUM_20": "#2d3538",
+        "PLUM_19": "#232a2e",
+        "PLUM_18": "#374247",
+        "PLUM_17": "#374247",
+        "PLUM_16": "#47555a",
+        "PLUM_15": "#374247",
+        "PLUM_13": "#a7c080",
+        "PLUM_10": "#d1c4aa",
+        "PLUM_9": "#e2ead5",
+        "PLUM_6": "#e2ead5",
+        "PLUM_3": "#e2ead5",
+        "PLUM_1": "#e2ead5"
+    },
+    "background": {
+        "url": "https://raw.githubusercontent.com/aitsk/pruebas/refs/heads/main/example1.PNG",
+        "alpha": 1
+    },
+    "fonts": {
+        "ABCGintoNord-ExtraBold": "https://github.com/soap-kid/rainForest/blob/test/fonts/sraben-grotesk.bold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-BoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-SemiBold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-SemiBoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-SemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/soap-kid/rainForest/blob/test/fonts/SpaceMono-Regular.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/soap-kid/rainForest/blob/test/fonts/SpaceMono-Regular.ttf?raw=1"
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "solarduotone"
+    },
+    "spec": 2
+}
